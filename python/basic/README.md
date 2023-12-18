@@ -3,6 +3,7 @@
 https://github.com/Nebeto/noto/labels/lang https://github.com/Nebeto/noto/labels/lang%3Apython
 
 * [..](../)
+* [dict](./dict/)
 
 ## Installing Python
 
