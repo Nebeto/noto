@@ -1,4 +1,4 @@
-# Dictionary
+# [..](../../..) / [Python](../..) / [Basic](..) / Dictionary
 
 aka. Object, JSON structure
 
@@ -58,6 +58,3 @@ my_variable = { key: value for key, value in my_variable.items() if key != "attr
 print(my_variable)
 # will print {'attribute_1': 'Hello World!', 'attribute_2': True}
 ```
-
-______
-[Official documentation](https://docs.python.org/)
