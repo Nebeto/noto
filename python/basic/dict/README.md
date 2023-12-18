@@ -1,4 +1,4 @@
-# Dictionnary
+# Dictionary
 
 aka. Object, JSON structure
 
