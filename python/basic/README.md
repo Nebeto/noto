@@ -1,9 +1,6 @@
-# Python > Basic
+# [..](../..) / [Python](../) / Basic
 
 https://github.com/Nebeto/noto/labels/lang https://github.com/Nebeto/noto/labels/lang%3Apython
-
-* [..](../)
-* [dict](./dict/)
 
 ## Installing Python
 
@@ -26,3 +23,7 @@ print("Hello World!")
 ```
 python3 my_script.py
 ```
+
+## Continue on ...
+
+* [Dictionary](./dict/)
