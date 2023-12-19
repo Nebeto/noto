@@ -27,3 +27,4 @@ python3 my_script.py
 ## Continue on ...
 
 * [Dictionary](./dict/)
+* [List](./list/)
